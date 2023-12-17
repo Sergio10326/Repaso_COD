@@ -1,4 +1,4 @@
-Tarea repaso
+# Tarea Repaso
 
 Este README documenta el proceso realizado para un boletín de Java llamado "SeleccionFutbol". A continuación, se detallan las acciones realizadas:
 1. Diagrama de Flujo
@@ -8,7 +8,9 @@ Diagrama de Flujo
 
 ![Fallo al cargar imagen](Repaso_clases.drawio.png)
 
+
 Diagrama de Clases
+
 3. Generar el JAR
 
 Para generar el archivo JAR ejecutable:
