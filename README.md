@@ -14,10 +14,10 @@ Diagrama de Clases
 3. Generar el JAR
 
 Para generar el archivo JAR ejecutable:
-'''
+```
 javac *.java
 jar cfe SeleccionFutbol.jar Main *.class
-'''
+```
 
 4. Etiquetar el Commit
 '''
