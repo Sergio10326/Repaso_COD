@@ -20,10 +20,10 @@ jar cfe SeleccionFutbol.jar Main *.class
 ```
 
 4. Etiquetar el Commit
-'''
+```
 git tag -a v1.0 -m "Versión 1.0 con JAR"
 git push origin v1.0
-'''
+```
 
 5. Crear Release v1.0 en GitHub
 
@@ -36,10 +36,10 @@ git push origin v1.0
 Las modificaciones han sido eliminar la clase "Entrenador" y cambiar la clase "Futbolista" por "Porteiro" con cambios en 2 de sus atributos. Una vez hecho esto, se vuelven a ejecutar los comandos hechos en el apartado 3 para generar el archivo.
 
 7. Etiquetar la Modificación
-'''
+```
 git tag -a v2.0 -m "Versión 2.0 con modificaciones"
 git push origin v2.0
-'''
+```
 8. Crear Release v2.0 en GitHub
 
     Ir a la sección "Releases" en GitHub.
